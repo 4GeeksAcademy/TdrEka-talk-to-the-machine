@@ -1,1 +1,0 @@
-# TdrEka-talk-to-the-machine
